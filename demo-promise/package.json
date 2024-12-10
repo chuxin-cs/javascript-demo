@@ -1,0 +1,16 @@
+{
+  "name": "demo-promise",
+  "version": "1.0.0",
+  "description": "promise demo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "chuxin",
+  "license": "ISC"
+}
